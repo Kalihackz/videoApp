@@ -44,4 +44,4 @@ io.on('connection',socket =>{
     })
 })
 
-server.listen('127.0.0.1',3030);
+server.listen('127.0.0.1');
